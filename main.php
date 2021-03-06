@@ -24,21 +24,21 @@ include "./Plugins/currency.php";
 ////////////////=========[START MESSAGE]=========////////////////
 
 if(strpos($text, "/start") === 0){
-    bot('sendmessage',[
+        bot('sendmessage',[
 	'chat_id'=>$chat_id,
 	'text'=>"<b>Hey $from_fname,
 
-I'm $USERNAMEBOT. I can do several Things!😆
+I'm $USERNAMEBOT. I can do several Things! ❤️
 
 Click the Button Below to open help menu!</b>",
 	'parse_mode'=>'html',
 	'reply_to_message_id'=> $message_id,
 	'reply_markup'=>json_encode(['inline_keyboard'=>[
-	[['text'=>"Help 💬",'callback_data'=>"help"]],[['text'=>"Our Channel 🌐",'url'=>"https://t.me/IndianBots"],['text'=>"My Source Code ✅",'url'=>"https://github.com/IndianBots/AnyCheckerBot"]]
+	[['text'=>"Help 💬",'callback_data'=>"help"]],
   ],'resize_keyboard'=>true])
 	
   ]);
-
+}
 
 //////////////////////////////////////////////
 

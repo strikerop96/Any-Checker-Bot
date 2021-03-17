@@ -28,6 +28,7 @@ $name = GetStr($fim, '"name":"', '"');
 $brand = GetStr($fim, '"brand":"', '"');
 $country = GetStr($fim, '"country":{"name":"', '"');
 $phone = GetStr($fim, '"phone":"', '"');
+$url = GetStr($fim, '"url":"', '"');	
 $scheme = GetStr($fim, '"scheme":"', '"');
 $type = GetStr($fim, '"type":"', '"');
 $emoji = GetStr($fim, '"emoji":"', '"');
@@ -58,7 +59,9 @@ if (empty($name)) {
 if (empty($phone)) {
 	$phone = "Unavailable";
 }
-
+if (empty($url)) {
+	$url = "Unavailable";
+}
 
 /////////////////////==========[Result]==========////////////////
 
@@ -87,6 +90,7 @@ Card Type: <b><ins>$typename</ins></b>
 Card Level: <b><ins>$brand</ins></b>
 Bank Name: <b><ins>$bank</ins></b>
 Country: <b><ins>$name</ins> - 💲<ins>$currency</ins></b>
+Issuers Website: <b><ins>$url</ins></b>
 Issuers Contact: <b><ins>$phone</ins></b>
 <b>━━━━━━━━━━━━━
 Checked By </b><b>@$username2</b> (<code>$from_id</code>)",

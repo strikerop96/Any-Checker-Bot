@@ -16,6 +16,7 @@ include "./Plugins/iban.php";
 include "./Plugins/stripekey.php";
 include "./Plugins/weather.php";
 include "./Plugins/dictionary.php";
+include "./Plugins/cccheck.php";
 include "./Plugins/proxy.php";
 include "./Plugins/covid.php";
 include "./Plugins/currency.php";

@@ -8,7 +8,7 @@
         "Modular"
     ],
     "website": "https://telegram.me/AnyCheckerBot",
-    "repository": "https://github.com/strikerop96/strikerchecker",
+    "repository": "https://github.com/strikerop96/AnyCheckerBot",
     "success_url": "https://telegram.me/IndianBots",
     "env": {
         "BOT_TOKEN": {

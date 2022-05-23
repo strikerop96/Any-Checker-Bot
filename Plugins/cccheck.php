@@ -200,7 +200,7 @@ bot('sendmessage',[
 Checked By:</u> @'.$username2.'<u>
 Time Taken:</u> <b>'.$time.'s</b>
 
-<b>Bot Made by: @CocoMelonBitch</b>",
+<b>Bot Made by: @strikerop95</b>",
 	'parse_mode'=>'html',
 	'reply_to_message_id'=> $message_id,
 	

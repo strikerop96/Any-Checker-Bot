@@ -1,8 +1,8 @@
 {
-	"name": "strikerop96/Any-Checker-Bot",
+	"name": "strikerop96/any-checker-bot",
 	"description": "A Telegram Bot made in Pure PHP with Several Features!",
 	"keywords": ["heroku", "telegram-bot", "php", "bot", "indianbots"],
-	"homepage": "https://github.com/strikerop96/Any-Checker-Bot",
+	"homepage": "https://github.com/strikerop96/any-checker-bot",
 	"type": "repo",
 	"license": "GPL"
 }

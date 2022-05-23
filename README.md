@@ -11,7 +11,7 @@
 
 ## About
 
-**[AnyChecker Bot](https://telegram.me/AnyCheckerBot)** is an Open Source Project for IndianBots Under the License **GNU Public License V3.0**. This Project is Base on Pure PHP and it doesn't Use any External Libraries.
+**[AnyCheckerBot](https://telegram.me/AnyCheckerBot)** is an Open Source Project for IndianBots Under the License **GNU Public License V3.0**. This Project is Base on Pure PHP and it doesn't Use any External Libraries.
 
 
 #### Features

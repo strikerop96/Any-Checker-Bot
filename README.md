@@ -68,7 +68,7 @@ Replace `VARIABLES FROM CONFIG` With Your Vars And Save it.
 ### Heroku
 #### Easy Way to Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IndianBots/AnyCheckerBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=(https://github.com/strikerop96/AnyCheckerBot)
 
 - Only two environment variables are required
    - `BOT_TOKEN`:   You can get this value from [@Botfather](https://telegram.me/Botfather)

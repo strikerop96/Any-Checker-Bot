@@ -1,4 +1,4 @@
-# <h1 align="center"><a href="https://github.com/strikerop96/AnyChecker-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=IndianBots&show_icons=true&theme=dark&hide_border=true&repo=AnyCheckerBot"></a></h1>
+# <h1 align="center"><a href="https://github.com/strikerop96/Any-Checker-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=IndianBots&show_icons=true&theme=dark&hide_border=true&repo=AnyCheckerBot"></a></h1>
 
 # <b>[AnyChecker-Bot](https://telegram.me/AnyCheckerBot)</b></h1>
 
@@ -68,7 +68,7 @@ Replace `VARIABLES FROM CONFIG` With Your Vars And Save it.
 ### Heroku
 #### Easy Way to Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/strikerop96/AnyChecker-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/strikerop96/Any-Checker-Bot)
 
 - Only two environment variables are required
    - `BOT_TOKEN`:   You can get this value from [@Botfather](https://telegram.me/Botfather)

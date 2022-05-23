@@ -1,4 +1,4 @@
-# <h1 align="center"><a href="https://github.com/IndianBots/AnyCheckerBot"><img src="https://github-readme-stats.vercel.app/api/pin?username=IndianBots&show_icons=true&theme=dark&hide_border=true&repo=AnyCheckerBot"></a></h1>
+# <h1 align="center"><a href="https://github.com/strikerop96/AnyChecker-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=IndianBots&show_icons=true&theme=dark&hide_border=true&repo=AnyChecker-Bot"></a></h1>
 
 # <b>[AnyChecker Bot](https://telegram.me/AnyCheckerBot)</b></h1>
 
@@ -11,7 +11,7 @@
 
 ## About
 
-**[AnyCheckerBot](https://telegram.me/AnyCheckerBot)** is an Open Source Project for IndianBots Under the License **GNU Public License V3.0**. This Project is Base on Pure PHP and it doesn't Use any External Libraries.
+**[AnyChecker-Bot](https://telegram.me/AnyCheckerBot)** is an Open Source Project for IndianBots Under the License **GNU Public License V3.0**. This Project is Base on Pure PHP and it doesn't Use any External Libraries.
 
 
 #### Features
@@ -36,7 +36,7 @@
 ## License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-**AnyChecker Bot is a Open Source Project for IndianBots Under The Terms And Conditions Of The GNU Public License V3.0**
+**AnyChecker-Bot is a Open Source Project for IndianBots Under The Terms And Conditions Of The GNU Public License V3.0**
 
 You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
 
@@ -68,7 +68,7 @@ Replace `VARIABLES FROM CONFIG` With Your Vars And Save it.
 ### Heroku
 #### Easy Way to Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/strikerop96/AnyCheckerBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/strikerop96/AnyChecker-Bot)
 
 - Only two environment variables are required
    - `BOT_TOKEN`:   You can get this value from [@Botfather](https://telegram.me/Botfather)
